@@ -1,0 +1,8 @@
+// 1.20.1	2024-04-20T19:13:50.8881662	Tags for minecraft:block mod id sgtmmod
+8c861259ebe795bd706e0cfaf53573fe52c6d879 data/minecraft/tags/blocks/fences.json
+aa48bcab239f25905de9f9c3e73ed9c0e42fd43b data/minecraft/tags/blocks/fence_gates.json
+c2e65a150a2570bb8ef759a5ce629fb6b7a82177 data/minecraft/tags/blocks/mineable/pickaxe.json
+717e373036c38f4b651fa512e7a6af9336e3c65a data/minecraft/tags/blocks/needs_diamond_tool.json
+14b7f4f80f95f4a4ee8372fb3a872189680ee9c7 data/minecraft/tags/blocks/needs_iron_tool.json
+8ff9a179aaa31a00b6a32acccd0eb45f4e755463 data/minecraft/tags/blocks/walls.json
+5ffd676c378a74bc9bfd6f89f17b2bc695bea516 data/sgtmmod/tags/blocks/metal_detector_valuables.json

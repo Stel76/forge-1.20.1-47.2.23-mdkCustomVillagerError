@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "sgtmmod:block/salt_stage_0"
+    },
+    "age=1": {
+      "model": "sgtmmod:block/salt_stage_1"
+    },
+    "age=2": {
+      "model": "sgtmmod:block/salt_stage_2"
+    },
+    "age=3": {
+      "model": "sgtmmod:block/salt_stage_3"
+    },
+    "age=4": {
+      "model": "sgtmmod:block/salt_stage_4"
+    },
+    "age=5": {
+      "model": "sgtmmod:block/salt_stage_5"
+    },
+    "age=6": {
+      "model": "sgtmmod:block/salt_stage_6"
+    },
+    "age=7": {
+      "model": "sgtmmod:block/salt_stage_7"
+    },
+    "age=8": {
+      "model": "sgtmmod:block/salt_stage_8"
+    }
+  }
+}

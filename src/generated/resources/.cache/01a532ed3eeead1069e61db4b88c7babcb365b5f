@@ -1,0 +1,6 @@
+// 1.20.1	2024-04-22T17:37:50.8272793	Global Loot Modifiers : sgtmmod
+65c37c2466e862f30f93f6b7f99ee48a6d8c5123 data/forge/loot_modifiers/global_loot_modifiers.json
+91265c8ab2f3d8431d159227f98581e7c4f76ce3 data/sgtmmod/loot_modifiers/metal_detector_from_jungle_temples.json
+a6eb8994abb60f4d95ceb318f5d1140ff4c6a3fe data/sgtmmod/loot_modifiers/metal_detector_from_suspicious_sand.json
+8feef7ad59ff40b8218bca47e47e57c1fee13ce2 data/sgtmmod/loot_modifiers/mithral_ingot_from_iron_golem.json
+a74fb5b9a92657d5475b22396db2516170d05928 data/sgtmmod/loot_modifiers/raw_adamantine_from_deepslate_diamond_ore.json

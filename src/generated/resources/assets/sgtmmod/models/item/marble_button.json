@@ -1,0 +1,6 @@
+{
+  "parent": "sgtmmod:block/marble_button",
+  "textures": {
+    "texture": "sgtmmod:block/marble_block"
+  }
+}

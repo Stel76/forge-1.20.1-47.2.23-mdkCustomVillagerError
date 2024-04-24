@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "sgtmmod:item/dwarven_steel_hoe"
+  }
+}

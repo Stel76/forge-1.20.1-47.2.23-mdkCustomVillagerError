@@ -1,0 +1,9 @@
+{
+  "entries": [
+    "sgtmmod:mithral_ingot_from_iron_golem",
+    "sgtmmod:metal_detector_from_suspicious_sand",
+    "sgtmmod:metal_detector_from_jungle_temples",
+    "sgtmmod:raw_adamantine_from_deepslate_diamond_ore"
+  ],
+  "replace": false
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "sgtmmod:block/bellberry_stage0"
+    },
+    "age=1": {
+      "model": "sgtmmod:block/bellberry_stage1"
+    },
+    "age=2": {
+      "model": "sgtmmod:block/bellberry_stage2"
+    },
+    "age=3": {
+      "model": "sgtmmod:block/bellberry_stage3"
+    },
+    "age=4": {
+      "model": "sgtmmod:block/bellberry_stage4"
+    },
+    "age=5": {
+      "model": "sgtmmod:block/bellberry_stage5"
+    }
+  }
+}

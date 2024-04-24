@@ -1,0 +1,87 @@
+{
+  "item.sgtmmod.adamantine_ingot": "Adamantine Ingot",
+  "item.sgtmmod.raw_adamantine": "Raw Adamantine",
+
+  "item.sgtmmod.adamantine_shovel": "Adamantine Shovel",
+  "item.sgtmmod.adamantine_sword": "Adamantine Sword",
+  "item.sgtmmod.adamantine_axe": "Adamantine Axe",
+  "item.sgtmmod.adamantine_pickaxe": "Adamantine Pickaxe",
+  "item.sgtmmod.adamantine_hoe": "Adamantine Hoe",
+  "item.sgtmmod.adamantine_helmet": "Adamantine Helmet",
+  "item.sgtmmod.adamantine_chestplate": "Adamantine Chestplate",
+  "item.sgtmmod.adamantine_leggings": "Adamantine Leggings",
+  "item.sgtmmod.adamantine_boots": "Adamantine Boots",
+
+  "item.sgtmmod.mithral_dust": "Mithral Dust",
+  "item.sgtmmod.mithral_cluster": "Mithral Cluster",
+  "item.sgtmmod.mithral_ingot": "Mithral Ingot",
+  "block.sgtmmod.mithral_block": "Block of Mithral",
+  "block.sgtmmod.mithral_ore": "Mithral Ore",
+  "item.sgtmmod.mithral_helmet": "Mithral Helmet",
+  "item.sgtmmod.mithral_chestplate": "Mithral Chestplate",
+  "item.sgtmmod.mithral_leggings": "Mithral Leggings",
+  "item.sgtmmod.mithral_boots": "Mithral Boots",
+
+  "item.sgtmmod.dwarven_steel_ingot": "Tempered Ingot",
+  "item.sgtmmod.dwarven_steel_shovel": "Tempered Shovel",
+  "item.sgtmmod.dwarven_steel_sword": "Tempered Sword",
+  "item.sgtmmod.dwarven_steel_axe": "Tempered Axe",
+  "item.sgtmmod.dwarven_steel_pickaxe": "Tempered Pickaxe",
+  "item.sgtmmod.dwarven_steel_hoe": "Tempered Hoe",
+  "item.sgtmmod.dwarven_steel_helmet": "Tempered Helmet",
+  "item.sgtmmod.dwarven_steel_chestplate": "Tempered Chestplate",
+  "item.sgtmmod.dwarven_steel_leggings": "Tempered Leggings",
+  "item.sgtmmod.dwarven_steel_boots": "Tempered Boots",
+
+  "item.sgtmmod.imbued_string": "Imbued String",
+  "item.sgtmmod.imbued_lapis": "Imbued Lapis",
+  "item.sgtmmod.infernal_coal": "Infernal Coal",
+  "item.sgtmmod.metal_detector": "Metal Detector",
+  "item.sgtmmod.basic_staff": "Basic Staff",
+
+  "item.sgtmmod.raw_owlbear": "Raw Owlbear",
+  "item.sgtmmod.owlbear_steak": "Owlbear Steak",
+  "item.sgtmmod.owlbear_stew": "Owlbear Stew",
+
+  "item.sgtmmod.bellberry": "Bellberry",
+  "item.sgtmmod.bellberry_seeds": "Bellberry Seeds",
+
+  "item.sgtmmod.salt_cane": "Salt Cane",
+  "item.sgtmmod.salt_seeds": "Salt Cane Seeds",
+  "item.sgtmmod.salt": "Salt",
+
+  "block.sgtmmod.moondew": "Moondew",
+
+  "item.sgtmmod.salted_porkchop": "Salted Porkchop",
+  "item.sgtmmod.pork_crackling": "Pork Crackling",
+
+  "item.sgtmmod.cheese": "Cheese",
+  "item.sgtmmod.blue_cheese": "Blue Cheese",
+  "item.sgtmmod.goat_cheese": "Goat Cheese",
+  "item.sgtmmod.cream_cheese": "Cream Cheese",
+
+  "block.sgtmmod.adamantine_block": "Block of Adamantine",
+  "block.sgtmmod.raw_adamantine_block": "Block of Raw Adamantine",
+  "block.sgtmmod.adamantine_ore": "Adamantine Ore",
+
+  "block.sgtmmod.horn_block": "Horn Block",
+
+  "block.sgtmmod.marble_block": "Marble",
+  "block.sgtmmod.marble_cobble_block": "Cobbled Marble",
+  "block.sgtmmod.marble_tile_block": "Tiled Marble",
+  "block.sgtmmod.marble_stairs": "Marble Stairs",
+  "block.sgtmmod.marble_slab": "Marble Slab",
+  "block.sgtmmod.marble_button": "Marble Button",
+  "block.sgtmmod.marble_pressure_plate": "Marble Pressure Plate",
+  "block.sgtmmod.marble_fence": "Marble Fence",
+  "block.sgtmmod.marble_fence_gate": "Marble Fence Gate",
+  "block.sgtmmod.marble_wall": "Marble Wall",
+  "block.sgtmmod.marble_door": "Marble Door",
+  "block.sgtmmod.marble_trapdoor": "Marble Trapdoor",
+
+  "entity.minecraft.villager.sgtmmod.hornmaster": "Horn Master",
+
+  "tooltip.sgtmmod.metal_detector.tooltip": "Finds valuables underground!",
+
+  "creativetab.sgtm_tab": "SGtM Tab"
+}

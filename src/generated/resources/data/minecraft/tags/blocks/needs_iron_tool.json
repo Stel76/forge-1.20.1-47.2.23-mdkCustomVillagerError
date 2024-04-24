@@ -1,0 +1,20 @@
+{
+  "values": [
+    "sgtmmod:horn_block",
+    "sgtmmod:horn_block",
+    "sgtmmod:marble_block",
+    "sgtmmod:marble_cobble_block",
+    "sgtmmod:marble_tile_block",
+    "sgtmmod:marble_stairs",
+    "sgtmmod:marble_slab",
+    "sgtmmod:marble_button",
+    "sgtmmod:marble_pressure_plate",
+    "sgtmmod:marble_fence",
+    "sgtmmod:marble_fence_gate",
+    "sgtmmod:marble_wall",
+    "sgtmmod:marble_door",
+    "sgtmmod:marble_trapdoor",
+    "sgtmmod:mithral_ore",
+    "sgtmmod:mithral_block"
+  ]
+}
